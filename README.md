@@ -1,2 +1,12 @@
 # SLP3-SC
-Simplified Chinese Translation of 'Speech and Language Processing (3rd edition draft)' - for reference and learning purposes only❗️
+Simplified Chinese Translation of _**Speech and Language Processing** **(3rd edition draft)**_
+❗️for reference and learning purposes only❗️
+
+- I Fundamental Algorithms for NLP
+  - ...
+  - 5 Logistic Regression 【SLP3-I5】Logistic回归 _08/16/2023_
+  - ...
+- II NLP Applications
+  - ...
+- III Annotating Linguistic Structure
+  - ...
