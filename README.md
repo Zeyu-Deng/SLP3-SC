@@ -1,6 +1,6 @@
-# SLP3-SC
+# SLP3-SC｜语音与语言处理/自然语言处理综论（第三版草稿）中文翻译
 Simplified Chinese Translation of _**Speech and Language Processing** **(3rd edition draft)**_
-❗️for reference and learning purposes only❗️
+<br>❗️for reference and learning purposes only❗️
 
 - I Fundamental Algorithms for NLP
   - ...
