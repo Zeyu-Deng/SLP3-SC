@@ -1,0 +1,6 @@
+- RNN
+  - [[Elman, 1990]](https://onlinelibrary.wiley.com/doi/epdf/10.1207/s15516709cog1402_1)
+  - [[Pineda, 1987]](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.59.2229)
+- LSTM
+  - [Placeholder]
+- 
